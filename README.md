@@ -1,6 +1,8 @@
-# books
+![Optional Text](/images/books_list.png)
 
-A new Flutter project.
+# books list Flutter App
+
+My new Flutter project.
 
 ## Getting Started
 
@@ -16,4 +18,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Optional Text](/images/books_list.png)
