@@ -8,7 +8,7 @@ class MainScreenWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Books'),
+        title: Text('Books list'),
       ),
       body: MovieListWidget(),
       bottomNavigationBar: BottomNavigationBar(
